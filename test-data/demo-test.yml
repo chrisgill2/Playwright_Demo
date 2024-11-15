@@ -1,0 +1,11 @@
+test1:
+  username: standard_user
+  password: secret_sauce
+  userDetails:
+    firstName: Bob
+    lastName: Builder
+    zip: '4451'
+  checkoutDetails:
+    paymentInfo: SauceCard
+    shippingInfo: Free Pony Express Delivery!
+    priceTotal: $32.39
